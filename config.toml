@@ -1,12 +1,12 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://blog.no-trend.com/"
+languageCode = "es-es"
+title = "Agile Path"
 theme = "bleak"
 
 [params]
   # Warning Keys are case sensitives
-  Subtitle = "Your subtitle !"
-  description = "Everything is awesome !"
+  Subtitle = "Experimentos agiles !"
+  description = "El maravilloso mundo agile !"
   cover = "/images/cover.jpg"
 
   # Google analytics
@@ -15,10 +15,10 @@ theme = "bleak"
   disqus = "xxxxxxxxx"
 
   [params.author]
-    firstName = "FirstName"
-    lastName = "LastName"
+    firstName = "Victor"
+    lastName = "Soria"
     gender = "(fe)?male"
-    userName = "username"
+    userName = "vjsoria"
     image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
     website = "http://www.foo.com"
     twitter = "xxxxxxx"
