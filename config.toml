@@ -12,7 +12,7 @@ theme = "bleak"
   # Google analytics
   googleAnalyticsUserID = "UA-xxxxxxxx-x"
   domainVerification = "xxxxxxxxxxxxxxxxxxxxx"
-  disqus = "xxxxxxxxx"
+  disqus = "agilepath"
 
   [params.author]
     firstName = "Victor"
