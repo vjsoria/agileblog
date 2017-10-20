@@ -7,7 +7,7 @@ theme = "bleak"
   # Warning Keys are case sensitives
   Subtitle = "Experimentos agiles !"
   description = "El maravilloso mundo agile !"
-  cover = "/images/cover.jpg"
+  cover = "/images/cover.png"
 
   # Google analytics
   googleAnalyticsUserID = "UA-xxxxxxxx-x"
